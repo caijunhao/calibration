@@ -1,0 +1,14 @@
+{
+  "camera":
+    {
+        "width": 640,
+        "height": 480,
+        "fov": 57,
+        "fov_error": 3,
+        "eye_position": [0, 0, 0.67],
+        "target_position": [0, 0, 0],
+        "up_vector": [-1, 0, 0],
+        "near_val": 0.105,
+        "far_val": 10
+    }
+}

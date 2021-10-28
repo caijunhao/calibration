@@ -1,0 +1,25 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.3154142419)
+
+mtllib chessboard_8_10_30_15.mtl
+
+# 4 vertex positions
+v  -0.1650000065565109 -0.135000005364418 0.002000000094994903
+v  0.1650000065565109 -0.135000005364418 0.002000000094994903
+v  0.1650000065565109 0.135000005364418 0.002000000094994903
+v  -0.1650000065565109 0.135000005364418 0.002000000094994903
+
+# 4 UV coordinates
+vt 0 0 0
+vt 1 0 0
+vt 1 1 0
+vt 0 1 0
+
+# 1 vertex normals
+vn 0 0 1
+
+# Mesh '' with 2 faces
+usemtl $Material_0
+f  1/1/1 2/2/1 3/3/1
+f  1/1/1 3/3/1 4/4/1
+
